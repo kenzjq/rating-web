@@ -19,7 +19,7 @@ export default {
 
 // main css
 body {
-  background-color: lightblue;
+  background-color: lightgreen;
   //background-color: #0071c5, old #999;
   line-height: 1;
 }
