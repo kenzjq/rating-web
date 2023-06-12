@@ -24,7 +24,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Red Hat OpenShift on AWS Workshop
+        Red Hat OpenShift on AWS Workshop/Customized and implemented by Ken Zhang
       </div>
       <div class="col-lg-6">
       </div>
